@@ -1,0 +1,38 @@
+{
+  "name": "alfred-vibible",
+  "version": "0.0.0",
+  "description": "Alfred workflow that help seek for Bible passage",
+  "license": "MIT",
+  "repository": "write-for-CHRIST/alfred-vibible",
+  "author": {
+    "name": "nampdn",
+    "email": "nampdn@protonmail.com",
+    "url": "github.com/write-for-CHRIST/alfred-vibible"
+  },
+  "engines": {
+    "node": ">=4"
+  },
+  "scripts": {
+    "test": "xo && ava",
+    "postinstall": "alfy-init",
+    "preuninstall": "alfy-cleanup"
+  },
+  "files": [
+    "index.js",
+    "icon.png",
+    "info.plist"
+  ],
+  "keywords": [
+    "alfred",
+    "workflow",
+    "alfy"
+  ],
+  "dependencies": {
+    "alfy": "^0.6.0"
+  },
+  "devDependencies": {
+    "alfy-test": "^0.3.0",
+    "ava": "^0.18.0",
+    "xo": "^0.17.0"
+  }
+}
