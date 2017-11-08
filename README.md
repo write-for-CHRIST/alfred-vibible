@@ -1,5 +1,7 @@
 # alfred-vibible [![Build Status](https://travis-ci.org/write-for-CHRIST/alfred-vibible.svg?branch=master)](https://travis-ci.org/write-for-CHRIST/alfred-vibible)
 
+[![Greenkeeper badge](https://badges.greenkeeper.io/write-for-CHRIST/alfred-vibible.svg)](https://greenkeeper.io/)
+
 > Alfred workflow that help seek for Bible passage
 
 
